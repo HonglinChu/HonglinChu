@@ -1,6 +1,6 @@
-<h2> Hi, I'm linlin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-通过开源项目，可以让其他人知道项目有什么不完善的地方，这样就可以给你反馈。有了别人的反馈和关注，更会真正激发你的动力！在此感谢所有开源人做出的贡献！<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<h2> Hi, I'm linlin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">. I hope to communicate with you and let us make progress together <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> </h2>
+ 
+ ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=HonglinChu&show_icons=true&theme=radical) 
 
 				
 
