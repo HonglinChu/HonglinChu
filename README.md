@@ -4,10 +4,11 @@
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=HonglinChu&show_icons=true&theme=shades-of-purple)   
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HonglinChu&repo=CFTrackers&theme=shades-of-purple)](https://github.com/HonglinChu/CFTrackers)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HonglinChu&repo=SiamTrackers&theme=shades-of-purple)](https://github.com/HonglinChu/SiamTrackers)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HonglinChu&repo=CFTrackers&theme=shades-of-purple)](https://github.com/HonglinChu/CFTrackers)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HonglinChu&repo=SiamTrackers&theme=shades-of-purple)](https://github.com/HonglinChu/SiamTrackers)
 
 <a href="https://github.com/HonglinChu/EFSCF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonglinChu&repo=EFSCF&theme=shades-of-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonglinChu&repo=EFSCF&theme=shades-of-purple"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
