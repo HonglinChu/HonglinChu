@@ -8,8 +8,10 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HonglinChu&repo=SiamTrackers)](https://github.com/HonglinChu/SiamTrackers)
 
 <a href="https://github.com/HonglinChu/EFSCF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonglinChu&repo=EFSCF&theme=shades-of-purple"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonglinChu&repo=EFSCF"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/HonglinChu/EFSCF">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonglinChu&repo=EFSCF"/>
 </a>
+
+
